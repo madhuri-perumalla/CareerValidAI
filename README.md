@@ -55,7 +55,6 @@ It uses **Gemini AI API + NLP models** to convert developer data into meaningful
 - Node.js  
 - Express.js  
 - PostgreSQL  
-- Prisma ORM  
 - JWT Authentication  
 
 ### **AI**
